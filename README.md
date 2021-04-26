@@ -1,4 +1,4 @@
-![Alt text](relative/C:\Users\Daniel Pro\Desktop/to/vue.jpg?raw=true "Title")
+![Vue logo](./images/vue.jpg)
 
 
 **RECAPPING ON MY VUE JS SKILLS**
