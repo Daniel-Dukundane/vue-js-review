@@ -1,2 +1,4 @@
-# vue-js-review
-Recapping Vue Js
+**RECAPPING ON MY VUE JS SKILLS**
+
+**FULL OF INTERESTING SIMPLE PROJECTS**
+
